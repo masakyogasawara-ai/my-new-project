@@ -1,10 +1,10 @@
-# Project Title
+# Virtual Fitting room
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+A virtual fitting room app that creates a 3D avatar from a user’s body measurements, allowing them to see how items would look and fit before purchase. It enhances the shopping experience, increases buyer confidence, and reduces retailer returns. 
 
 
 ## Background
