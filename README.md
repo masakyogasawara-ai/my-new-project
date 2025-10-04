@@ -9,7 +9,9 @@ A virtual fitting room app that creates a 3D avatar from a user’s body measure
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Which problems does your idea solve? This idea solves two major problems. For customers, shopping online often leads to uncertainty about fit and appearance, causing frustration, wasted time, and unsatisfying purchases. For retailers, ....How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+
+For retailers → High return rates due to size and fit issues increase costs, hurt margins, and reduce customer loyalty.
 
 This is how you make a list, if you need one:
 * problem 1
