@@ -17,15 +17,10 @@ What is your personal motivation? I want to have my own business in something I 
 
 Why is this topic important or interesting? This topic is important because it sits at the intersection of technology, fashion, and consumer behavior. Online fashion is one of the fastest-growing retail segments but suffers from high return rates, making fit uncertainty a major challenge with massive untapped value. Returns are not only costly but also harmful to the environment, as many items end up in landfills or require additional shipping that increases carbon emissions. At the same time, shoppers crave both convenience and confidence, and a solution that helps them see how clothes will fit makes the online experience more enjoyable and trustworthy. By leveraging AI and 3D technology, virtual fitting rooms and personalized avatars have the potential to redefine the way people shop for fashion online.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account? Users begin by entering their body measurements—such as height, weight, and key dimensions like chest, waist, and hips—into the app. The platform then generates a personalized 3D avatar that accurately reflects their body shape. Shoppers can browse clothing items from participating retailers and virtually “try on” different styles and sizes to see how they would look and fit. This solution is most useful in online shopping environments where customers cannot physically test garments before buying, saving time and reducing uncertainty. Primary users include online shoppers seeking better fit accuracy, as well as retailers aiming to reduce return rates and improve customer satisfaction. The design should prioritize ease of use, data privacy, realistic visualization, and inclusivity for diverse body types.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
