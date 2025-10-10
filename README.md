@@ -22,7 +22,7 @@ Why is this topic important or interesting? This topic is important because it s
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account? Users begin by entering their body measurements—such as height, weight, and key dimensions like chest, waist, and hips—into the app. The platform then generates a personalized 3D avatar that accurately reflects their body shape. Shoppers can browse clothing items from participating retailers and virtually “try on” different styles and sizes to see how they would look and fit. This solution is most useful in online shopping environments where customers cannot physically test garments before buying, saving time and reducing uncertainty. Primary users include online shoppers seeking better fit accuracy, as well as retailers aiming to reduce return rates and improve customer satisfaction. The design should prioritize ease of use, data privacy, realistic visualization, and inclusivity for diverse body types.
 
-Virtual Dressing Room_1.pngImages will make your README look nice!
+![virtual dressing room 1](/Virtual Dressing Room_1.png)Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 
