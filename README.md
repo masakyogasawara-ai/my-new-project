@@ -24,6 +24,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 ![virtual dressing room 1](https://github.com/masakyogasawara-ai/my-new-project/blob/cf1bb7591a1a8b3e0303b2d4f694b591b0000c1f/Virtual%20Dressing%20Room_1.png)
 ![virtual dressing room 2](https://github.com/masakyogasawara-ai/my-new-project/blob/1680bbaeafe0be905bd8ab291e6ad43f063cdafe/Virtual%20Dressing%20Room_2.png).
+![virtual dressing room 3](https://github.com/masakyogasawara-ai/my-new-project/blob/835c7be7b534c251db15628e1985cfb9dcfe0c9d/Virtual%20Dressing%20Room_3.png)
 
 
 make your README look nice!
