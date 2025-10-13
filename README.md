@@ -23,7 +23,7 @@ Why is this topic important or interesting? This topic is important because it s
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account? Users begin by entering their body measurements—such as height, weight, and key dimensions like chest, waist, and hips—into the app. The platform then generates a personalized 3D avatar that accurately reflects their body shape. Shoppers can browse clothing items from participating retailers and virtually “try on” different styles and sizes to see how they would look and fit. This solution is most useful in online shopping environments where customers cannot physically test garments before buying, saving time and reducing uncertainty. Primary users include online shoppers seeking better fit accuracy, as well as retailers aiming to reduce return rates and improve customer satisfaction. The design should prioritize ease of use, data privacy, realistic visualization, and inclusivity for diverse body types.
 
 ![virtual dressing room 1_small](https://github.com/masakyogasawara-ai/my-new-project/blob/1f25e6e4a6da7a91c07032d8f6dd509d6cbcba3f/Virtual%20Dressing%20Room_1_small.png)
-![virtual dressing room 2](https://github.com/masakyogasawara-ai/my-new-project/blob/1680bbaeafe0be905bd8ab291e6ad43f063cdafe/Virtual%20Dressing%20Room_2.png).
+![virtual dressing room 2_small](https://github.com/masakyogasawara-ai/my-new-project/blob/6e5f70f80e1833919072ed3fc33ab1c4966828c0/Virtual%20Dressing%20Room_2_small.png).
 ![virtual dressing room 3](https://github.com/masakyogasawara-ai/my-new-project/blob/835c7be7b534c251db15628e1985cfb9dcfe0c9d/Virtual%20Dressing%20Room_3.png)
 
 
