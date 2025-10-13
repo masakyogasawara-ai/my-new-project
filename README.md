@@ -24,15 +24,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 ![virtual dressing room 1_small](https://github.com/masakyogasawara-ai/my-new-project/blob/1f25e6e4a6da7a91c07032d8f6dd509d6cbcba3f/Virtual%20Dressing%20Room_1_small.png)
 ![virtual dressing room 2_small](https://github.com/masakyogasawara-ai/my-new-project/blob/6e5f70f80e1833919072ed3fc33ab1c4966828c0/Virtual%20Dressing%20Room_2_small.png).
-![virtual dressing room 3](https://github.com/masakyogasawara-ai/my-new-project/blob/835c7be7b534c251db15628e1985cfb9dcfe0c9d/Virtual%20Dressing%20Room_3.png)
-
-
-make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+![virtual dressing room 3_small](https://github.com/masakyogasawara-ai/my-new-project/blob/2429f5688e57f875dc89bea7ad1daf1d740c8ebd/Virtual%20Dressing%20Room_3_small.png)
 
 This is how you create code examples:
 ```
