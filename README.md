@@ -28,28 +28,25 @@ Describe the process of using the solution. In what kind situations is the solut
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+Where does your data come from? Do you collect it yourself or do you use data collected by someone else? The data comes from a mix of user inputs and external datasets. Users start by entering their own body measurements—such as height, weight, chest, waist, and hips—when creating their 3D avatar. For more accurate results, the app can also allow optional body scans or full-body photos using a smartphone camera. This personal data is collected directly and securely, used only to generate the avatar and fit visualization.
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+To train and improve the AI model, the system would also rely on publicly available body-shape datasets (like CAESAR) and clothing size data from partner retailers. These datasets provide a wide range of body proportions and garment dimensions that help the AI learn how different fabrics and sizes fit various body types. All data is anonymized and handled in compliance with privacy standards to ensure users’ information remains safe and confidential.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this? While the virtual fitting room can greatly improve sizing accuracy and reduce returns, it doesn’t completely eliminate all fit and style issues. Factors like fabric texture, stretch, comfort, and personal preference are still difficult to simulate perfectly. Lighting, posture, and how people perceive themselves in clothing can also affect how realistic the virtual try-on feels.
+
+From a technical side, creating accurate 3D avatars depends on the quality of the measurements or scans users provide—small errors can lead to less precise results. The system also relies on retailers to share accurate garment dimensions, which may vary between brands.
+
+Ethically, the main considerations involve data privacy, body image, and inclusivity. The app must ensure that users’ body data and images are securely stored, never shared without consent, and handled under strict privacy regulations (like GDPR). It’s also important to design the system to represent diverse body types and avoid promoting unrealistic beauty standards. Finally, transparency about how the AI model uses personal data and how fit predictions are made will be key to earning users’ trust.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? This project could grow from a simple fitting app into a complete AI-driven fashion platform. In the future, it could recommend clothing styles that match a user’s body shape, personal taste, and past purchases. It could also integrate with retailer websites, allowing users to virtually try on outfits directly while shopping online. With enough data and development, the system could evolve into a tool that supports sustainability, helping brands reduce overproduction and customers make smarter, longer-lasting choices.
+
+To move forward, the project would need a mix of technical, design, and business skills. On the technical side, expertise in AI modeling, computer vision, and 3D rendering would be essential. For design, UX/UI specialists could make the virtual fitting experience smooth and realistic. Collaboration with fashion retailers, data privacy experts, and investors would also help bring the solution to market. Finally, marketing and business development support would be key to building partnerships and scaling the platform globally.
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* My main inspiration is my wife. 
